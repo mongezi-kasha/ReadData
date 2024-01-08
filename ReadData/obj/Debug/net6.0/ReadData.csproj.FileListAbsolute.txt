@@ -1,0 +1,14 @@
+C:\Users\monge\source\repos\ReadData\ReadData\bin\Debug\net6.0\ReadData.exe
+C:\Users\monge\source\repos\ReadData\ReadData\bin\Debug\net6.0\ReadData.deps.json
+C:\Users\monge\source\repos\ReadData\ReadData\bin\Debug\net6.0\ReadData.runtimeconfig.json
+C:\Users\monge\source\repos\ReadData\ReadData\bin\Debug\net6.0\ReadData.dll
+C:\Users\monge\source\repos\ReadData\ReadData\bin\Debug\net6.0\ReadData.pdb
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.AssemblyInfoInputs.cache
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.AssemblyInfo.cs
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.csproj.CoreCompileInputs.cache
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.dll
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\refint\ReadData.dll
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.pdb
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ReadData.genruntimeconfig.cache
+C:\Users\monge\source\repos\ReadData\ReadData\obj\Debug\net6.0\ref\ReadData.dll
